@@ -1,0 +1,1 @@
+To run rock paper scissors, please follow these instuctions: To execute run_rock_paper_scissors.sh, type into the console chmod +x run_rock_paper_scissors.sh and then ./run_rock_paper_scissors.sh.

@@ -1,0 +1,1 @@
+To run the password cracker, please follow these instuctions: To execute runPasswordCracker.sh, type into the console chmod +x run_password_cracker.sh and then ./run_password_cracker.sh.

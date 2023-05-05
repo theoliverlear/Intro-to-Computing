@@ -1,0 +1,1 @@
+To run the dimension traveler, please follow these instuctions: To execute run_travel_dimension.sh, type into the console chmod +x run_travel_dimension.sh and then ./run_travel_dimension.sh.
